@@ -38,7 +38,7 @@ Abhilash Surapuchetty
 - **Charting Library**: Chart.js for profit visualization
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/srirangamuc/freshmart.git`
+1. Clone the repository: `git clone https://github.com/AbhilashSurapuchetty/E-commerce-Grocery-Website.git`
 ### Backend Setup:
 1. Navigate to the project directory: `cd backend`
 2. Install dependencies: `npm install`
